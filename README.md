@@ -28,6 +28,7 @@ There's more customisation you can do onto the outputted file, just type `python
 The `sound.wav` file is outputted in 16bit WAV file with a sample rate of 44100.
 The frequencies on which the image is encoded span from 0 to 22000 Hz as that's the maximum frequency that my version of Audacity allows me to see.
 
+KS54{Так.. Так.. ну и _Что ты тут забыл?_41i3n}
 
 The program makes use of :
  - Numpy for matrix handling
